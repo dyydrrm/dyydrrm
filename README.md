@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Dila Yeliz Yıldırım</h1>
+  <h1>Hi 👋, I'm Dila Yeliz </h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B794F4&center=true&vCenter=true&width=500&lines=Mechatronics+Engineer;Data+Analyst+in+Supply+Chain;SolidWorks+%26+AutoCAD+Expert;Python+%26+SQL+Developer" alt="Typing SVG" />
