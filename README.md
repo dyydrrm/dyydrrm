@@ -1,8 +1,23 @@
-# Hi 👋, I'm Dila Yeliz Yıldırım
+<div align="center">
+  <h1>Hi 👋, I'm Dila Yeliz Yıldırım</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B794F4&center=true&vCenter=true&width=500&lines=Mechatronics+Engineer;Data+Analyst+in+Supply+Chain;SolidWorks+%26+AutoCAD+Expert;Python+%26+SQL+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
-### 🚀 Mechatronics Engineer | Data Analyst in Supply Chain
-Mechatronics Engineer focused on **Supply Chain Analytics**. Currently leveraging **SQL, Python, and Microsoft Power BI** to optimize processes and transform data into actionable insights.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B794F4&height=100&section=header" width="100%" />
+</p>
+
 ---
+
+### 🚀 About Me
+
+Mechatronics Engineer focused on **Supply Chain Analytics**. Currently leveraging **SQL, Python, and Microsoft Power BI** to optimize processes and transform data into actionable insights.
+
+---
+
 ### 🛠 Technologies & Tools
 
 <p align="left">
@@ -20,30 +35,4 @@ Mechatronics Engineer focused on **Supply Chain Analytics**. Currently leveragin
 
 <p align="left">
   <img src="https://img.shields.io/badge/AutoCAD-221E1F?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge&logo=solidworks&logoColor=white" />
-</p>
----
-
-### 🌐 Languages
-- 🇹🇷 **Turkish:** Native
-- 🇬🇧 **English:** Professional
-- 🇷🇺 **Russian:** B1 (Intermediate)
-
----
-
-### 📊 GitHub Stats & Activities
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyydrrm&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-### 📫 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/dilayelizyildirim1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:dilayelizyildirim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
+  <img src="https
