@@ -2,10 +2,9 @@
 
 ### 🚀 Mechatronics Engineer | Data Analyst in Supply Chain
 Mechatronics Engineer focused on **Supply Chain Analytics**. Currently leveraging **SQL, Python, and Microsoft Power BI** to optimize processes and transform data into actionable insights.
-
 ---
-
 ### 🛠 Technologies & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
@@ -19,6 +18,10 @@ Mechatronics Engineer focused on **Supply Chain Analytics**. Currently leveragin
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/AutoCAD-221E1F?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge&logo=solidworks&logoColor=white" />
+</p>
 ---
 
 ### 🌐 Languages
